@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SinJie00
-- 👀 I’m interested in programming and discovering new projects.
-- 🌱 I’m currently learning Java, C++, Python, HTML/CSS, Javascript, PhP and Flutter.
+- 👀 I’m interested in programming and discovering new areas outside my knowledge.
+- 🌱 I’m currently learning Java, C++, Python, HTML/CSS, Javascript, PhP and other programming languages.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me ? Just dm at my profile!
 
